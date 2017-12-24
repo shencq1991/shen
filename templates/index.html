@@ -1,0 +1,61 @@
+{% load static %}
+<!DOCTYPE HTML>
+<html dir="ltr" lang="en-US">
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+	<title>登录模式测试版1.0</title>
+
+	<!--- CSS --->
+	<link rel="stylesheet" href="{% static 'style.css' %}" type="text/css" />
+
+
+	<!--- Javascript libraries (jQuery and Selectivizr) used for the custom checkbox --->
+
+	<!--[if (gte IE 6)&(lte IE 8)]>
+		<script type="text/javascript" src="{% static 'jquery-1.7.1.min.js' %}"></script>
+		<script type="text/javascript" src="{% static 'selectivizr.js' %}"></script>
+		<noscript><link rel="stylesheet" href="{% static 'fallback.css' %}" /></noscript>
+	<![endif]-->
+
+	</head>
+
+	<body>
+		<div id="container">
+			<form action="{% static 'welcome.html' %}" method="post">
+				<div class="login">欢迎您</div>
+				<div class="username-text">用户名:</div>
+				<div class="password-text">密码:</div>
+				<div class="username-field">
+					<input type="text" name="username" value="" />
+				</div>
+				<div class="password-field">
+					<input type="password" name="password" value="" />
+				</div>
+				<input type="checkbox" name="remember-me" id="remember-me" /><label for="remember-me">记住账号</label>
+				<div class="forgot-usr-pwd">忘记 <a href="#">用户名</a> 或 <a href="#">密码</a>?</div>
+				<input type="submit" name="submit" value="登录" />
+			</form>
+            <hr />
+            <h1 style="...">用户展示</h1>
+            <table border="1">
+                <thead>
+                <th>用户名</th>
+                <th>密码</th>
+            </thead>
+            <tbody>
+                {% for line in data %}
+                    <tr>
+                        <td>{{ line.user }}</td>
+                        <td>{{ line.pwd }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+		</div>
+		<div id="footer">
+			Copyright &copy; 2017.Company name All rights reserved.<a target="_blank" href="http://www.pythontab.com/">Python中文开发者社区</a>
+		</div>
+<div style="display:none"><script src='http://v7.cnzz.com/stat.php?id=155540&web_id=155540' language='JavaScript'
+charset='gb2312'></script></div>
+</body>
+</html>
