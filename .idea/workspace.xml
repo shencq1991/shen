@@ -2,543 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2e55f80-5d38-43b9-960e-a91299adf50f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/.idea/Django_shen.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/Django_shen/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/Django_shen/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/Django_shen/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/Django_shen/wsgi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/cmdb/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/cmdb/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/cmdb/apps.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/cmdb/forms.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/cmdb/migrations/0001_initial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/cmdb/migrations/0002_auto_20171217_0136.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/cmdb/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/cmdb/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/cmdb/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/cmdb/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/data/data.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/db.sqlite3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/manage.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/requirements.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/assets/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/assets/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/assets/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/assets/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/assets/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/assets/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/assets/js/demo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/assets/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/assets/js/jquery.scrollex.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/assets/js/jquery.scrolly.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/assets/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/assets/js/skel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/assets/js/util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/color.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/content.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/css/nprogress.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/css/semantic.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/css/semantic.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/friendly.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/ie.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/images/P1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/images/P2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/images/P3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/images/P4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/images/P5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/images/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/images/backtop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/images/browser.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/images/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/images/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/images/icon.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/images/icon/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/images/icon/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/images/icon/icon.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/images/icon/my-favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/images/logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/images/logo.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/images/longzhu1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/images/longzhu2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/images/longzhu3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/images/news-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/js/easyform.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/js/echarts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/js/echarts.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/js/exporting.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/js/highcharts-3d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/js/highcharts-3d.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/js/highcharts-3d.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/js/highcharts-more.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/js/highcharts-more.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/js/highcharts-more.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/js/highcharts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/js/highcharts.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/js/highcharts.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/js/highstock.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/js/html5shiv.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/js/jquery.lazyload.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/js/nprogress.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/js/respond.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/js/selectivizr-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/js/semantic.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/js/semantic.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/readerWall.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/tags.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/blog/zambia.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/.hound.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/CNAME" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/Gemfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/Gemfile.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/ISSUE_TEMPLATE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/_config.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/dist/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/dist/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/dist/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/dist/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/dist/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/dist/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/dist/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/dist/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/dist/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/dist/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/dist/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_data/browser-bugs.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_data/browser-features.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_data/core-team.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_data/glyphicons.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_data/sass-team.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_data/showcase.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_data/translations.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/ads.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/components/alerts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/components/badges.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/components/breadcrumbs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/components/button-dropdowns.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/components/button-groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/components/dropdowns.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/components/glyphicons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/components/input-groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/components/jumbotron.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/components/labels.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/components/list-group.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/components/media.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/components/navbar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/components/navs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/components/page-header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/components/pagination.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/components/panels.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/components/progress-bars.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/components/responsive-embed.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/components/thumbnails.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/components/wells.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/css/buttons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/css/code.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/css/forms.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/css/grid.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/css/helpers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/css/images.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/css/less.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/css/overview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/css/responsive-utilities.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/css/sass.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/css/tables.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/css/type.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/customizer-variables.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/getting-started/accessibility.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/getting-started/browser-device-support.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/getting-started/community.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/getting-started/disabling-responsiveness.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/getting-started/download.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/getting-started/examples.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/getting-started/grunt.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/getting-started/license.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/getting-started/template.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/getting-started/third-party-support.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/getting-started/tools.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/getting-started/translations.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/getting-started/whats-included.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/js/affix.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/js/alerts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/js/buttons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/js/carousel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/js/collapse.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/js/dropdowns.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/js/modal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/js/overview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/js/popovers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/js/scrollspy.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/js/tabs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/js/tooltips.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/js/transitions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/nav/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/nav/components.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/nav/css.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/nav/customize.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/nav/getting-started.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/nav/javascript.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/nav/main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_includes/nav/migration.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_layouts/default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_layouts/home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_plugins/bridge.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_plugins/bugify.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_pug/customizer-nav.pug" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/_pug/customizer-variables.pug" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/brand/bootstrap-outline.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/brand/bootstrap-punchout.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/brand/bootstrap-solid.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/css/docs.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/css/docs.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/css/ie10-viewport-bug-workaround.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/css/src/docs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/css/src/pygments-manni.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/flash/ZeroClipboard.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/img/components.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/img/devices.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/img/expo-lyft.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/img/expo-newsweek.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/img/expo-riot.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/img/expo-vogue.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/img/sass-less.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/js/customize.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/js/docs.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/js/ie-emulation-modes-warning.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/js/ie10-viewport-bug-workaround.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/js/ie8-responsive-file-warning.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/js/raw-files.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/js/src/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/js/src/customizer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/js/vendor/Blob.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/js/vendor/FileSaver.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/js/vendor/ZeroClipboard.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/js/vendor/anchor.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/js/vendor/autoprefixer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/js/vendor/holder.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/js/vendor/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/js/vendor/jszip.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/js/vendor/less.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/assets/js/vendor/uglify.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/browser-bugs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/components.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/css.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/customize.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/dist/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/dist/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/dist/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/dist/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/dist/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/dist/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/dist/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/blog/blog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/blog/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/carousel/carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/carousel/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/cover/cover.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/cover/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/dashboard/dashboard.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/dashboard/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/grid/grid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/grid/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/jumbotron-narrow/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/jumbotron-narrow/jumbotron-narrow.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/jumbotron/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/jumbotron/jumbotron.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/justified-nav/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/justified-nav/justified-nav.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/navbar-fixed-top/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/navbar-fixed-top/navbar-fixed-top.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/navbar-static-top/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/navbar-static-top/navbar-static-top.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/navbar/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/navbar/navbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/non-responsive/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/non-responsive/non-responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/offcanvas/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/offcanvas/offcanvas.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/offcanvas/offcanvas.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/screenshots/blog.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/screenshots/carousel.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/screenshots/cover.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/screenshots/dashboard.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/screenshots/equal-height-columns.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/screenshots/grid.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/screenshots/jumbotron-narrow.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/screenshots/jumbotron.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/screenshots/justified-nav.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/screenshots/navbar-fixed.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/screenshots/navbar-static.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/screenshots/navbar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/screenshots/non-responsive.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/screenshots/offcanvas.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/screenshots/sign-in.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/screenshots/starter-template.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/screenshots/sticky-footer-navbar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/screenshots/sticky-footer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/screenshots/theme.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/signin/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/signin/signin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/starter-template/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/starter-template/starter-template.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/sticky-footer-navbar/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/sticky-footer-navbar/sticky-footer-navbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/sticky-footer/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/sticky-footer/sticky-footer.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/theme/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/theme/theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/tooltip-viewport/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/tooltip-viewport/tooltip-viewport.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/examples/tooltip-viewport/tooltip-viewport.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/getting-started.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/javascript.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/migration.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/docs/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/grunt/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/grunt/bs-commonjs-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/grunt/bs-glyphicons-data-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/grunt/bs-lessdoc-parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/grunt/bs-raw-files-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/grunt/change-version.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/grunt/configBridge.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/grunt/npm-shrinkwrap.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/grunt/sauce_browsers.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/.jscsrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/affix.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/alert.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/popover.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/unit/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/unit/affix.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/unit/alert.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/unit/button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/unit/carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/unit/collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/unit/dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/unit/modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/unit/phantom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/unit/popover.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/unit/scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/unit/tab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/unit/tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/vendor/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/vendor/qunit.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/vendor/qunit.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/visual/affix-with-sticky-footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/visual/affix.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/visual/alert.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/visual/button.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/visual/carousel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/visual/collapse.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/visual/dropdown.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/visual/modal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/visual/popover.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/visual/scrollspy.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/visual/tab.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tests/visual/tooltip.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/js/transition.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/.csscomb.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/.csslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/badges.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/bootstrap.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/breadcrumbs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/button-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/carousel.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/close.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/code.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/component-animations.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/dropdowns.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/glyphicons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/grid.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/input-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/jumbotron.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/labels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/list-group.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/media.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/background-variant.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/border-radius.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/center-block.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/clearfix.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/gradients.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/grid-framework.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/grid.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/hide-text.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/image.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/labels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/list-group.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/nav-divider.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/nav-vertical-align.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/opacity.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/panels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/progress-bar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/reset-filter.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/reset-text.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/resize.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/responsive-visibility.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/size.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/tab-focus.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/table-row.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/text-emphasis.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/text-overflow.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/mixins/vendor-prefixes.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/modals.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/navbar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/navs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/normalize.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/pager.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/panels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/popovers.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/print.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/progress-bars.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/responsive-embed.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/responsive-utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/scaffolding.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/tables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/theme.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/thumbnails.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/tooltip.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/type.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/less/wells.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/nuget/MyGet.ps1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/nuget/bootstrap.less.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/nuget/bootstrap.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/package.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/bootstrap-3.3.7/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/fallback.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/checkbox-off-hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/checkbox-off.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/checkbox-on-hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/checkbox-on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/footer-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/form-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/gallery/fulls/01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/gallery/fulls/02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/gallery/fulls/03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/gallery/fulls/04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/gallery/fulls/05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/gallery/fulls/06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/gallery/fulls/07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/gallery/fulls/08.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/gallery/fulls/09.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/gallery/fulls/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/gallery/fulls/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/gallery/fulls/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/gallery/thumbs/01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/gallery/thumbs/02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/gallery/thumbs/03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/gallery/thumbs/04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/gallery/thumbs/05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/gallery/thumbs/06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/gallery/thumbs/07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/gallery/thumbs/08.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/gallery/thumbs/09.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/gallery/thumbs/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/gallery/thumbs/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/gallery/thumbs/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/go-hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/password-field-hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/password-field.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/pic01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/pic02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/pic03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/spotlight01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/spotlight02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/spotlight03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/username-field-hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/username-field.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/xihuan.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/images/龙珠.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/jquery-1.7.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/selectivizr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/static/welcome.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/templates/base.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/templates/base2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/templates/content.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/templates/data.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/templates/ie.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/templates/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/templates/new_m.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/templates/web_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/templates/web_blog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/爬虫/tushare下载股票数据.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/爬虫/爬取文本评论.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shen/爬虫/获取股票价格.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shen/Django_shen/settings.py" afterPath="$PROJECT_DIR$/shen/Django_shen/settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -549,51 +13,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="web_blog.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="web_blog.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/web_blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="418">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Django_shen/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Django_shen/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/content.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+            <state relative-caret-position="285">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -608,8 +42,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/shen/cmdb/views.py" />
-        <option value="$PROJECT_DIR$/shen/Django_shen/settings.py" />
         <option value="$PROJECT_DIR$/templates/web_blog.html" />
+        <option value="$PROJECT_DIR$/shen/Django_shen/settings.py" />
         <option value="$PROJECT_DIR$/Django_shen/settings.py" />
       </list>
     </option>
@@ -621,8 +55,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1200" />
-    <option name="y" value="5" />
+    <option name="x" value="1192" />
+    <option name="y" value="30" />
     <option name="width" value="1330" />
     <option name="height" value="1323" />
   </component>
@@ -642,6 +76,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -653,7 +88,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -687,9 +121,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1200" y="5" width="1330" height="1323" extended-state="0" />
+    <frame x="1192" y="30" width="1330" height="1323" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25354332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25748032" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -742,11 +176,80 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/web_blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django_shen/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2223">
+          <caret line="117" column="17" lean-forward="true" selection-start-line="117" selection-start-column="17" selection-end-line="117" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/web_blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django_shen/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="110" column="0" lean-forward="true" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/web_blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django_shen/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django_shen/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/shen/Django_shen/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2489">
           <caret line="131" column="13" lean-forward="false" selection-start-line="131" selection-start-column="13" selection-end-line="131" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,7 +273,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -800,7 +302,126 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="461">
           <caret line="131" column="13" lean-forward="false" selection-start-line="131" selection-start-column="13" selection-end-line="131" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shen/cmdb/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="60" column="31" lean-forward="false" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="31" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shen/cmdb/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-247">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/web_blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django_shen/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django_shen/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="14" column="46" lean-forward="false" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shen/Django_shen/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shen/Django_shen/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2489">
+          <caret line="131" column="13" lean-forward="false" selection-start-line="131" selection-start-column="13" selection-end-line="131" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shen/Django_shen/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shen/cmdb/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="60" column="42" lean-forward="true" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shen/cmdb/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shen/templates/content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shen/templates/web_blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shen/cmdb/migrations/0002_auto_20171217_0136.py" />
+    <entry file="file://$PROJECT_DIR$/shen/cmdb/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -824,7 +445,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -832,7 +452,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-247">
           <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -848,15 +467,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Django_shen/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -864,14 +474,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shen/Django_shen/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="128" column="0" lean-forward="true" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/web_blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        <state relative-caret-position="418">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django_shen/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
