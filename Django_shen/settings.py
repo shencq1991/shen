@@ -23,9 +23,10 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '#@y4sz=dtmtz@w76o!fzu4t*x@i66^^=afe!vsol102*6@wh!!'
 
 # SECURITY WARNING: don't run with debug turned on in production!
+
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','localhost','.workm-station.com','iZwz9bg6ylclvm9raqubl1Z','39.108.156.176']
+ALLOWED_HOSTS = ['127.0.0.1','localhost','.workm-station.com']
 
 
 # Application definition
@@ -128,7 +129,8 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+
+# STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
 
 

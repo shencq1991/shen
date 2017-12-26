@@ -21,7 +21,7 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
 url(r'^index/', views.index),
 url(r'^web_1/', views.web_1),
-url(r'^web_blog/$', views.web_blog),
+url(r'^$', views.web_blog),
 url(r'^ie/', views.ie),
 url(r'^base/', views.base),
 url(r'^web_blog/content/(?P<pk>[0-9]+)/$', views.content,name="content"),
