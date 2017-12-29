@@ -162,7 +162,7 @@ window.onload = function() {
           <!--循环内容-->
           {% for content in contents %}
               <div class="news-list">
-                <div class="news-img col-xs-5 col-sm-5 col-md-4"> <a target="_blank" href="{{ content.get_absolute_url }}"><img src="{% static '/blog/images/code/{{ content.code }}.jpg' %}" alt=""> </a> </div>
+                <div class="news-img col-xs-5 col-sm-5 col-md-4"> <a target="_blank" href="{{ content.get_absolute_url }}"><img src="{% static '/blog/images/code/{{content.name}}.jpg' %}" alt=""> </a> </div>
                 <div class="news-info col-xs-7 col-sm-7 col-md-8">
                   <dl>
                     <dt> <a href="{{ content.get_absolute_url }}" target="_blank" > {{ content.name }}  代码：{{content.code}} </a> </dt>
