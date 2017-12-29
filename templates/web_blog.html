@@ -114,7 +114,9 @@ window.onload = function() {
           <div class="item">
               <div class="ui equal width grid" style="width:100%;">
                   <div class="ui container segment">
-                    <div class="ui container" id="chart2" style="width:600px;height:400px;"></div>
+                    <div class="ui container" id="chart2" style="width:600px;height:400px;">
+                    <img src="{% static '/blog/images/P5.jpg' %}" alt="">
+                    </div>
                   </div>
                </div>
             <div class="carousel-caption">  欢迎来到沈诚勤博客 </div>
@@ -137,19 +139,19 @@ window.onload = function() {
       <div class="content-block hot-content hidden-xs">
         <h2 class="title"><strong>本周热门排行</strong></h2>
         <ul>
-          <li class="large"><a href="http://127.0.0.1:8000/content/" target="_blank"><img src="{% static '/blog/images/P1.jpg' %}" alt="">
+          <li class="large"><a href="" target="_blank"><img src="{% static '/blog/images/P1.jpg' %}" alt="">
             <h3> 欢迎来到沈诚勤博客 </h3>
             </a></li>
-          <li><a href="http://127.0.0.1:8000/content/" target="_blank"><img src="{% static '/blog/images/P4.jpg' %}" alt="">
+          <li><a href="" target="_blank"><img src="{% static '/blog/images/P4.jpg' %}" alt="">
             <h3> 欢迎来到沈诚勤博客 </h3>
             </a></li>
-          <li><a href="http://127.0.0.1:8000/content/" target="_blank"><img src="{% static '/blog/images/P2.jpg' %}" alt="">
+          <li><a href="" target="_blank"><img src="{% static '/blog/images/P2.jpg' %}" alt="">
             <h3> 欢迎来到沈诚勤博客 </h3>
             </a></li>
-          <li><a href="http://127.0.0.1:8000/content/" target="_blank"><img src="{% static '/blog/images/P3.jpg' %}" alt="">
+          <li><a href="" target="_blank"><img src="{% static '/blog/images/P3.jpg' %}" alt="">
             <h3>  欢迎来到沈诚勤博客 </h3>
             </a></li>
-          <li><a href="http://127.0.0.1:8000/content/" target="_blank"><img src="{% static '/blog/images/P4.jpg' %}" alt="">
+          <li><a href="" target="_blank"><img src="{% static '/blog/images/P4.jpg' %}" alt="">
             <h3>  欢迎来到沈诚勤博客 </h3>
             </a></li>
         </ul>
@@ -160,10 +162,10 @@ window.onload = function() {
           <!--循环内容-->
           {% for content in contents %}
               <div class="news-list">
-                <div class="news-img col-xs-5 col-sm-5 col-md-4"> <a target="_blank" href=""><img src="{% static '/blog/images/P3.jpg' %}" alt=""> </a> </div>
+                <div class="news-img col-xs-5 col-sm-5 col-md-4"> <a target="_blank" href="{{ content.get_absolute_url }}"><img src="{% static '/blog/images/code/{{ content.code }}.jpg' %}" alt=""> </a> </div>
                 <div class="news-info col-xs-7 col-sm-7 col-md-8">
                   <dl>
-                    <dt> <a href="{{ content.get_absolute_url }}" target="_blank" > {{ content.name }} </a> </dt>
+                    <dt> <a href="{{ content.get_absolute_url }}" target="_blank" > {{ content.name }}  代码：{{content.code}} </a> </dt>
                     <dd>
                         <span class="name"><a href="" title="由 沈诚勤 发布" rel="author">{{ content.authoe }}</a></span> <span class="identity"></span>
                         <span > code </span><span > {{ content.created_time }} </span>
