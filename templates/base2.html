@@ -76,11 +76,14 @@ window.onload = function() {
           <li><a href=""><span class="glyphicon glyphicon-user"></span>关于我们</a></li>
           <li><a href=""><span class="glyphicon glyphicon-tags"></span>友情链接</a></li>
         </ul>
-        <form class="navbar-form" action="search.php" method="post" style="padding:0 25px;">
-          <div class="input-group">
-            <input type="text" class="form-control" placeholder="请输入关键字">
-            <span class="input-group-btn">
-            <button class="btn btn-default btn-search" type="submit">搜索</button>
+        <div id="search" class="sidebar-block search" role="search">
+                      <h2 class="title"><strong></strong></h2>
+                      <form class="navbar-form" action="{% url 'search' %}" method="get">
+                          {% csrf_token %}
+                        <div class="input-group">
+                          <input type="search" name="q" class="form-control" size="30" placeholder="请输入关键字" required>
+                          <span class="input-group-btn">
+                          <button class="btn btn-default btn-search" type="submit">搜索</button>
             </span> </div>
         </form>
       </div>
@@ -98,7 +101,7 @@ window.onload = function() {
 
 
   <!--/右侧>992px显示-->
-  <footer class="footer">POWERED BY &copy;<a href="http://www.ylsat.com">异清轩 YLSAT.COM</a> ALL RIGHTS RESERVED &nbsp;&nbsp;&nbsp;<span><a href="http://www.miitbeian.gov.cn/" target="_blank">豫ICP备15026801号-1</a></span> <span style="display:none"><a href="">网站统计</a></span> </footer>
+  <footer class="footer">POWERED BY &copy;<a href="http://www.ylsat.com"></a> ALL RIGHTS RESERVED &nbsp;&nbsp;&nbsp;<span><a href="http://www.miitbeian.gov.cn/" target="_blank">豫ICP备15026801号-1</a></span> <span style="display:none"><a href="">网站统计</a></span> </footer>
 </section>
 <div><a href="javascript:;" class="gotop" style="display:none;"></a></div>
 <!--/返回顶部-->
@@ -180,7 +183,7 @@ $.fn.smartFloat = function() {
 };
 //启用页面元素智能定位
 $(function(){
-	$("#search").smartFloat();
+	$("#searchform").smartFloat();
 });
 //异步加载更多内容
 jQuery("#pagination a").on("click", function ()

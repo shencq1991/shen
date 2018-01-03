@@ -15,19 +15,6 @@ def index(request):
 def base(request):
     return render(request,"base.html",)
 
-def data(request):
-    if request.method == 'GET' and request.GET.get('data') == '1':
-        data = {'data': [
-            {'value': 335, 'name': 'AA'},
-            {'value': 310, 'name': 'BB'},
-            {'value': 234, 'name': 'CC'},
-            {'value': 135, 'name': 'DD'},
-            {'value': 1548, 'name': 'EE'}
-        ],
-            'categories': ['AA', 'BB', 'CC', 'DD', 'EE']}
-        return JsonResponse(data)
-    return render(request,"data.html",)
-
 
 def content(request,pk):
     content = get_object_or_404(Post, pk=pk)
@@ -48,17 +35,18 @@ def ie(request):
     return render(request,"ie.html",)
 
 
-def web_1(request):
-    data = Echarts.objects.all()
 
-    return render(request,"web_1.html",{'data':data})
+
+def web_1(request):
+
+    return render(request,"web_1.html",)
 
 
 
 
 def web_blog(request):
     limit = 4
-    post = Post.objects.all().order_by('id')
+    post = Post.objects.all().order_by('code')
     p = Paginator(post,limit)
     page = request.GET.get('page')
     try:
@@ -68,7 +56,21 @@ def web_blog(request):
     except EmptyPage:
         contents = p.page(paginator.num_pages)
 
-
-
     return render(request,"web_blog.html",{'contents':contents})
+
+
+def search(request):
+    q = request.GET.get('q')
+    error_msg = ''
+
+    if not q:
+        error_msg = '请输入关键词'
+        return render(request, 'web1.html',{'error_msg': error_msg})
+    try:
+        content = get_object_or_404(Post, code=q)
+    except:
+        content = get_object_or_404(Post, name=q)
+    return render(request, 'content.html', {'error_msg': error_msg,
+                                               'content': content})
+
 
