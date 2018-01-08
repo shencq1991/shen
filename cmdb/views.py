@@ -45,7 +45,7 @@ def web_1(request):
 
 
 def web_blog(request):
-    limit = 4
+    limit = 8
     post = Post.objects.all().order_by('code')
     p = Paginator(post,limit)
     page = request.GET.get('page')

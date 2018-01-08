@@ -23,9 +23,10 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '#@y4sz=dtmtz@w76o!fzu4t*x@i66^^=afe!vsol102*6@wh!!'
 
 # SECURITY WARNING: don't run with debug turned on in production!
+
 DEBUG = False
 
-ALLOWED_HOSTS = ['workm-station.com','47.91.209.119']
+ALLOWED_HOSTS = ['47.91.209.119','localhost','.workm-station.com']
 
 
 # Application definition
@@ -125,7 +126,6 @@ USE_TZ = True
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
-
 
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
